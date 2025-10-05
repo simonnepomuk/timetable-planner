@@ -3,7 +3,7 @@
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "sourceRoot": "apps/timetable-planner-e2e/src",
-  "implicitDependencies": ["timetable-planner"],
+  "implicitDependencies": ["timetable-planner-frontend"],
   "// targets": "to see all targets run: nx show project timetable-planner-e2e --web",
   "targets": {}
 }

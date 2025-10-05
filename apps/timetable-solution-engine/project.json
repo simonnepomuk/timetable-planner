@@ -1,0 +1,6 @@
+{
+  "name": "timetable-solution-engine",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/timetable-solution-engine/src",
+  "tags": []
+}
