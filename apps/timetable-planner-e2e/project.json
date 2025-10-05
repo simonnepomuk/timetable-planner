@@ -1,0 +1,9 @@
+{
+  "name": "timetable-planner-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/timetable-planner-e2e/src",
+  "implicitDependencies": ["timetable-planner"],
+  "// targets": "to see all targets run: nx show project timetable-planner-e2e --web",
+  "targets": {}
+}
